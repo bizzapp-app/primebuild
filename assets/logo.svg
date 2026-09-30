@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" role="img" aria-label="Primebuild Engineering Solutions">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1769e0"/>
+      <stop offset="100%" stop-color="#0b1726"/>
+    </linearGradient>
+  </defs>
+  <!-- circular badge -->
+  <circle cx="40" cy="40" r="34" fill="#0b1726"/>
+  <circle cx="40" cy="40" r="30" fill="none" stroke="#d9a441" stroke-width="2.5"/>
+  <!-- stylized buildings -->
+  <path d="M22 52 V28 h8 l9 12 9-12 h8 v24 H48 V38 L40 50 32 38 v14z" fill="#1769e0"/>
+  <path d="M54 52 H46 l-3-7 h14z" fill="#d9a441"/>
+  <!-- wordmark -->
+  <text x="86" y="36" font-family="Manrope, Inter, Arial, sans-serif" font-weight="800" font-size="20" fill="#0b1726" letter-spacing="-0.5">PRIMEBUILD</text>
+  <text x="86" y="54" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="9.5" fill="#d9a441" letter-spacing="2.2">ENGINEERING SOLUTIONS</text>
+</svg>
