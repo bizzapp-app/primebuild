@@ -1,8 +1,8 @@
 const CONFIG = {
   // Official contact details from Primebuild materials
   phone: "+254791653161",
-  whatsapp: "254791653161",
-  email: "info@primebuild.co.ke"
+  whatsapp: "+254791653161",
+  email: "Primebuild45@gmail.com"
 };
 
 document.addEventListener("DOMContentLoaded", () => {
